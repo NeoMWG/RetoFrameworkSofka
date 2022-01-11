@@ -6,7 +6,7 @@ Característica: Validar Carrito de Compras
   Yo como cliente de la plataforma automationpractice.com deseo ingresar a la pagina y añadir productos
   al carrito de compras para su posterior adquisicion.
 
-@ignore
+
 @ScenarioName:pagoPorTransferenciaBancaria
 Escenario: Pago de pedido por transferencia bancaria
 
